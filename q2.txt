@@ -1,0 +1,48 @@
+1. Arithmetic Operators:
+
+let result = 10 + 5;
+
+
+2.Assignment Operators:
+let x = 5;
+x += 3; 
+
+3.Comparison Operators:
+let a = 10;
+let b = 5;
+let isEqual = a === b; 
+
+
+4. Logical Operators:
+let isTrue = true;
+let isFalse = false;
+let logicalAnd = isTrue && isFalse; 
+
+
+5. Unary Operators:
+let num = 10;
+num++; 
+
+
+6. Bitwise Operators:
+
+let binaryA = 5; 
+let binaryB = 3;
+let bitwiseAND = binaryA & binaryB;
+
+
+7, Conditional (Ternary) Operator:
+
+let age = 20;
+let isAdult = age >= 18 ? 'Yes' : 'No'; 
+
+
+8. Typeof Operator:
+let variableType = typeof "Hello"; 
+
+
+9. Instanceof Operator:
+
+function Person() {}
+let personObj = new Person();
+let isInstanceOfPerson = personObj instanceof Person;

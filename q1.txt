@@ -1,0 +1,13 @@
+operators in js are tools that allow to perform actions on variable and values. Using operators
+we can add number,multiply ,compare values combine strings and many more.example:
+
+addition operator
+let x = 5;
+let y = 2;
+let z = x + y;
+value of z will be 7
+
+Addition Assignment Operator
+var x = 10;
+x += 5;
+value of x will be 15
